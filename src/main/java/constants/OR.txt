@@ -1,0 +1,2 @@
+btn_login=.//*[@id=\"divSearch\"]/a[4]
+btn_Next=.//*[@id=\"identifierNext\"]/content/span
